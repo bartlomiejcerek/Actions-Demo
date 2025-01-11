@@ -1,0 +1,31 @@
+# VSCode specific files
+.vscode/
+*.code-workspace
+
+# Python cache and bytecode files
+__pycache__/
+*.py[cod]
+
+# Virtual environment directories
+venv/
+env/
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Log files
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE-specific directories
+.idea/
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
